@@ -1,0 +1,2 @@
+# Stewart_Platform
+This work has been done as part of my internship in the Indian Institute of Engineering Science and Technology (IIEST), Shibpur under the supervision of Prof. Tanmay Pal. This matlab script uses inverse kinematic equations to solve for the length of each leg required for a given particular position and orientation of the Stewart Platform. Simulation of a Stewart Platform model for visualisation of the inverse kinematic problem is under progress and the files will be added once they are done.
