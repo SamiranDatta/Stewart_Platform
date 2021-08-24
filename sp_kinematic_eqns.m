@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-syms phi theta psi X Y Z xa ya za xb yb zb
+syms phi(t) theta(t) psi(t) X Y Z xa ya za xb yb zb
 
 xa = 0.225
 ya = 0.0
